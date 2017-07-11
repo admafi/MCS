@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.16",
+	"EngineAssociation": "{EBADCAE4-4685-73CB-600A-C2B5B38B5906}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MCS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
